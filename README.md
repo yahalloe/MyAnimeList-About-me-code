@@ -1,40 +1,6 @@
 # MyAnimeList-About-me-code
 
 # if this code prove usefull, please star it 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fnutricionadrianajijon.com%2Fcategory%2Ffurniture%3Fh%3D8061437%26iid%3D01_55973848_10_3&psig=AOvVaw01mdx_v1U80Sg5_KyjDFPW&ust=1711809929858000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjCrYfbmYUDFQAAAAAdAAAAABAj
+![raiden-shogun-ei](https://github.com/yahalloe/MyAnimeList-About-me-code/assets/147316835/3a4c3ffa-38c5-4b53-bc5e-fc13a15633f9)
 
-[center][size=50][img]https://media1.tenor.com/m/eqYP-eXdCicAAAAd/nilou-genshin.gif[/img][/size][/center]
-
-[size=200][font=Verdana][center][b]check out my 3x3: 
-[url=https://www.yahallo.me]yahallo.me[/url][/b][/center][/font][/size]
-
-
-[center]
-[size=200][color=pink][b]Ratings[/b][/color][/size]
-[spoiler="My rating basis"]
-[size=190]
-[b]
-10: [color=violet]I literally stand up and clap for about 30 minutes
-[size=50][i](Edgerunners, Tengen Toppa Gurren Lagann)[/i][/size][/color]
-9: [color=#92f757]Shows that I rewatched a ton and still get excited every single time. 
-[size=50][i](Oregairu, Bunny Girl)[/i][/size][/color]
-8: [color=#75c746]Good though I might only rewatch it if I remember it exits. 
-[size=50][i](Kokoro connect, Tamako Love Story)[/i][/size][/color]
-7: [color=#589635]Decent shows that I enjoyed but I might not rewatch it.
-[size=50][i](Noragami, Grisaia)[/i][/size][/color]
-6: [color=#5a8237]Above mediocre.
-[size=50][i](Tokyo Revengers, Hells Paradise)[/i][/size][/color]
-5: [color=#88a14d]Boring but I still finished it. Of course.
-[size=50][i](50% of modern seasonals)[/i][/size][/color]
-4: [color=#e88146]I hate it but I still finished it.
-[size=50][i](50% of modern seasonals)[/i][/size][/color]
-[/b]
-[/size]
-[/spoiler]
-[/center]
-
-[size=350][center][b]About me[/b][/center][/size]
-
-[size=150][center][b]Studying [color=blue]Computer Science[/color].[/b][/center][/size]
-[size=150][center][b]Started watching anime late of 2019,  the best thing I've ever done in my life![/b][/center][/size]
-[size=150][center][b]I was such a weeb that I studied Japanese.[/b][/center][/size]
+## ⚙️ click the code file
